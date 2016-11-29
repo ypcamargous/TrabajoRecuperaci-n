@@ -251,6 +251,7 @@ div {
 	width: 1232px;
 	height: 79px;
 	z-index: 11;
+     color: #FFF;
 	font-size: small;
 	text-align: center;
 	background-image: url(img/f_menu.png);
